@@ -16,6 +16,6 @@ esfera = Esfera(float(input("Informe o valor do raio da esfera: ")))
 
 print("A área da superfície da esfera é: %.4f"% esfera.area)
 
-print("O volume da superfície da esfera é: %.4f"% esfera.volume) 
+print("O volume da esfera é: %.4f"% esfera.volume) 
 
 
